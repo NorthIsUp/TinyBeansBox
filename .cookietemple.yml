@@ -1,0 +1,20 @@
+cookietemple_version: '1.2.3 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: TinyBeansBox
+project_slug_no_hyphen: TinyBeansBox
+template_version: '1.1.0 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: NorthIsUp
+creator_github_username: NorthIsUp
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Adam Hitchcock
+email: adam@northisup.com
+project_name: TinyBeansBox
+project_short_description: A tool to sync tinybeans to dropbox for pictureframes.
+version: 0.1.0
+license: MIT
+command_line_interface: Click
+testing_library: pytest
